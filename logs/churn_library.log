@@ -1,0 +1,7 @@
+2023-09-07 00:39:11,098 - root - INFO: Testing import_data: SUCCESS
+2023-09-07 00:39:11,098 - root - INFO: Rows: 10127	Columns: 22
+2023-09-07 00:39:14,447 - root - INFO: Testing perform_eda: SUCCESS
+2023-09-07 00:39:14,483 - root - INFO: Testing encoder_helper(data_frame, category_lst=[]): SUCCESS
+2023-09-07 00:39:16,172 - root - INFO: Testing encoder_helper: SUCCESS
+2023-09-07 00:39:17,868 - root - INFO: Testing encoder_helper with response='Churn': SUCCESS
+2023-09-07 00:39:17,899 - root - ERROR: Testing perform_feature_engineering failed - Error type: <class 'KeyError'>

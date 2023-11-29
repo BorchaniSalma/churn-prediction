@@ -45,8 +45,29 @@ To initiate the project, execute the script python churn_library.py from the pro
 
 The functionality of the project script, churn_library.py, has been thoroughly tested using the pytest Python package.
 
-To run unit tests, simply type pytest in the command line from the project's main folder.
-These tests will automatically assess the project functions and generate a log file in the "logs" folder.
+Certainly, here's a shorter version of the testing and logging instructions in a single block:
+
+
+To test and log the results of each function, follow these steps:
+
+1. Open your terminal or command prompt.
+
+2. Navigate to the project directory:
+
+
+3. Launch IPython and run the script:
+
+   ipython  churn_script_logging_and_tests_solution.p
+ 
+
+   This executes the script and logs the results to a `.log` file.
+
+4. View the log file:
+
+   After running the script, check the `output.log` file in the same directory for test results and logged information
+   
+Use the log file to verify function correctness and diagnose issues.
+
 
 
 
